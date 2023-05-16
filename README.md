@@ -16,7 +16,7 @@ Este projeto é um aplicativo da Web simples que permite aos usuários criar e g
 ## 📲 Layout
 <hr>
 
-![layout](/image/layout.png)
+![layout](layout.png)
 
 <br>
 <br>
